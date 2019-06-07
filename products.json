@@ -1,5 +1,17 @@
 {
-    "product_supply_tasks": [
+    
+   "transfers":{
+        "transfers": [
+            {
+                "transfer_id": 1
+            },
+            {
+                "transfer_id": 2
+            }
+        ]
+   }
+    "products":{
+        "product_supply_tasks": [
         {
             "expiration_date": "20/09/2010",
             "name": "Arroz",
@@ -15,4 +27,5 @@
             "unit": "Kg"
         }
     ]
+    }
 }

@@ -13,37 +13,37 @@
    },
     "products":{
         "product_supply_tasks": [
-        {
-            "product": {
-                "expiration_date": "20/09/2010",
-                "id" : "23",
-                "name": "Arroz",
-                "path_img": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/240550-750-750/MOCKUP-5000G-Vitamor-17Jul17.jpg",
-                "quantity_unit": "12",
-                "receive_quantity": "21",
-                "reference": "12345678",
-                "store_product_id": "2",
-                "unit": "Kg"
-            },
-            "status": "2",
-            "task_id": "123",
-            "user_assignment_id": "234"
-        },
             {
-            "product": {
-                "expiration_date": "20/09/2010",
-                "id" : "23",
-                "name": "El lechero",
-                "path_img": "https://d50xhnwqnrbqk.cloudfront.net/images/products/large/alpina-entera-800x800.jpg",
-                "quantity_unit": "120",
-                "receive_quantity": "21",
-                "reference": "1234566",
-                "store_product_id": "2",
-                "unit": "Kg"
+                "product": {
+                    "expiration_date": "20/09/2010",
+                    "id" : "23",
+                    "name": "Arroz",
+                    "path_img": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/240550-750-750/MOCKUP-5000G-Vitamor-17Jul17.jpg",
+                    "quantity_unit": "12",
+                    "receive_quantity": "21",
+                    "reference": "12345678",
+                    "store_product_id": "2",
+                    "unit": "Kg"
+                },
+                "status": "2",
+                "task_id": "123",
+                "user_assignment_id": "234"
             },
-            "status": "2",
-            "task_id": "1232"
-        }
-    ]
+            {
+                "product": {
+                    "expiration_date": "20/09/2010",
+                    "id" : "23",
+                    "name": "El lechero",
+                    "path_img": "https://d50xhnwqnrbqk.cloudfront.net/images/products/large/alpina-entera-800x800.jpg",
+                    "quantity_unit": "120",
+                    "receive_quantity": "21",
+                    "reference": "1234566",
+                    "store_product_id": "2",
+                    "unit": "Kg"
+                },
+                "status": "2",
+                "task_id": "1232"
+            }
+        ]
     }
 }

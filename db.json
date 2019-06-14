@@ -62,5 +62,7 @@
            
         ]
     },
-    "message": "Producto asignado correctamente"
+    "assign":{
+        "message": "Producto asignado correctamente"
+    }
 }

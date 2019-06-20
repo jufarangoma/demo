@@ -17,7 +17,7 @@
                 "product": {
                     "expiration_date": "20/09/2010",
                     "id" : "23",
-                    "name": "Arroz",
+                    "name": "Arroz Diana",
                     "path_img": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/240550-750-750/MOCKUP-5000G-Vitamor-17Jul17.jpg",
                     "quantity_unit": "12",
                     "receive_quantity": "21",
@@ -33,7 +33,7 @@
                 "product": {
                     "expiration_date": "20/09/2010",
                     "id" : "23",
-                    "name": "El lechero",
+                    "name": "Leche Alpina Entera",
                     "path_img": "https://d50xhnwqnrbqk.cloudfront.net/images/products/large/alpina-entera-800x800.jpg",
                     "quantity_unit": "120",
                     "receive_quantity": "21",
@@ -48,7 +48,7 @@
                 "product": {
                     "expiration_date": "20/09/2010",
                     "id" : "23",
-                    "name": "El lechero",
+                    "name": "Yogurt Griego Fresa",
                     "path_img": "https://my7.digitalexperience.ibm.com/1285e1d2-5151-4eab-9da2-775291879cb9/dxdam/c4/c4fcde1e-fbcf-4064-9f98-8a9e870f5896/Yogurt-Griego-Vaso-Fresa-150g.png",
                     "quantity_unit": "120",
                     "receive_quantity": "21",

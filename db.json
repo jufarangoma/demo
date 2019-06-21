@@ -79,7 +79,7 @@
     },
     "assign":{
         "message": "Producto asignado correctamente"
-    }
+    },
     "sortProducts":{
         "product_supply_route": [
             {
@@ -101,7 +101,7 @@
                         "store_product_id": "2",
                         "unit": "Kg"
                     },
-                "status": "2"
+                "status": "2",
                 "user_assignment_id": 5
             },
             {
@@ -123,7 +123,7 @@
                         "store_product_id": "2",
                         "unit": "Litrs"
                 },
-                "status": "2"
+                "status": "2",
                 "user_assignment_id": 5
             }
         ]

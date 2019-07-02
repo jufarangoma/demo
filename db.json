@@ -1,6 +1,4 @@
-
 {
-    
    "transfers":{
         "transfers": [
             {
@@ -127,5 +125,7 @@
                 "user_assignment_id": 5
             }
         ]
+    },
+    "finishSupplyTask":{
+        "code": 10
     }
-}

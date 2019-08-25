@@ -1,132 +1,24 @@
 {
-   "transfers":{
+   "numbers":{
         "transfers": [
             {
-                "transfer_id": 1
+                "transfer_id": 88
             },
             {
-                "transfer_id": 2
-            }
+                "transfer_id": 69
+            },
+           {
+                "transfer_id": 666
+            },
+            {
+                "transfer_id": 911
+            },
+           {
+                "transfer_id": 42
+            },
+            {
+                "transfer_id": 420
+            },
         ]
-   },
-    "products":{
-        "product_supply_tasks": [
-            {
-                "product": {
-                    "expiration_date": "20/09/2010",
-                    "id" : "23",
-                    "name": "Arroz Diana",
-                    "path_img": "https://jumbocolombiafood.vteximg.com.br/arquivos/ids/240550-750-750/MOCKUP-5000G-Vitamor-17Jul17.jpg",
-                    "quantity_unit": "12",
-                    "receive_quantity": "21",
-                    "reference": "12345678",
-                    "store_product_id": "2",
-                    "unit": "Kg"
-                },
-                "status": "2",
-                "task_id": "123",
-                "user_assignment_id": "234"
-            },
-            {
-                "product": {
-                    "expiration_date": "20/09/2010",
-                    "id" : "23",
-                    "name": "Leche Alpina Entera",
-                    "path_img": "https://d50xhnwqnrbqk.cloudfront.net/images/products/large/alpina-entera-800x800.jpg",
-                    "quantity_unit": "120",
-                    "receive_quantity": "21",
-                    "reference": "7702001055067",
-                    "store_product_id": "2",
-                    "unit": "Kg"
-                },
-                "status": "2",
-                "task_id": "1232"
-            },
-            {
-                "product": {
-                    "expiration_date": "20/09/2010",
-                    "id" : "23",
-                    "name": "Agua Manantial",
-                    "path_img": "https://d50xhnwqnrbqk.cloudfront.net/images/products/large/Agua-Manantial-sin-gas-600-Ml.jpg",
-                    "quantity_unit": "120",
-                    "receive_quantity": "21",
-                    "reference": "7702609005372",
-                    "store_product_id": "2",
-                    "unit": "Litrs"
-                },
-                "status": "2",
-                "task_id": "1232"
-            },
-            {
-                "product": {
-                    "expiration_date": "20/09/2010",
-                    "id" : "23",
-                    "name": "Yogurt Griego Fresa",
-                    "path_img": "https://my7.digitalexperience.ibm.com/1285e1d2-5151-4eab-9da2-775291879cb9/dxdam/c4/c4fcde1e-fbcf-4064-9f98-8a9e870f5896/Yogurt-Griego-Vaso-Fresa-150g.png",
-                    "quantity_unit": "120",
-                    "receive_quantity": "21",
-                    "reference": "7702001055050",
-                    "store_product_id": "2",
-                    "unit": "Kg"
-                },
-                "status": "2",
-                "task_id": "1232"
-            }
-           
-        ]
-    },
-    "assign":{
-        "message": "Producto asignado correctamente"
-    },
-    "sortProducts":{
-        "product_supply_route": [
-            {
-                "id": 3,
-                "position": {
-                    "barcode": "183-C",
-                    "id": 2,
-                    "position": 183,
-                    "position_height": "C"
-                },
-                "product": {
-                        "expiration_date": "20/09/2010",
-                        "id" : "23",
-                        "name": "Yogurt Griego Fresa",
-                        "path_img": "https://my7.digitalexperience.ibm.com/1285e1d2-5151-4eab-9da2-775291879cb9/dxdam/c4/c4fcde1e-fbcf-4064-9f98-8a9e870f5896/Yogurt-Griego-Vaso-Fresa-150g.png",
-                        "quantity_unit": "120",
-                        "receive_quantity": "21",
-                        "reference": "7702001055050",
-                        "store_product_id": "2",
-                        "unit": "Kg"
-                    },
-                "status": "2",
-                "user_assignment_id": 5
-            },
-            {
-                "id": 6,
-                "position": {
-                    "barcode": "184-C",
-                    "id": 2,
-                    "position": 183,
-                    "position_height": "C"
-                },
-                "product": {
-                        "expiration_date": "20/09/2010",
-                        "id" : "23",
-                        "name": "Agua Manantial",
-                        "path_img": "https://d50xhnwqnrbqk.cloudfront.net/images/products/large/Agua-Manantial-sin-gas-600-Ml.jpg",
-                        "quantity_unit": "120",
-                        "receive_quantity": "21",
-                        "reference": "7702609005372",
-                        "store_product_id": "2",
-                        "unit": "Litrs"
-                },
-                "status": "2",
-                "user_assignment_id": 5
-            }
-        ]
-    },
-    "finishSupplyTask":{
-        "code": 10
-    }
+   }
 }

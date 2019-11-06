@@ -60,7 +60,7 @@
        },
        "status": true
    },
-   "typifications?rejected":{
+   "typifications":{
        "message": "string",
        "result": [
            {

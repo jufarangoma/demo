@@ -20,5 +20,19 @@
                 "transfer_id": 420
             }
         ]
-   }
+   },
+   "get-shift-advert": {
+        "message": "Todo copas",
+        "result": {
+            "ProviderOrders": [
+                {
+                    "advert_shift": "0",
+                    "provider_name": "Alpene",
+                    "reception_id": "456",
+                    "reception_shift": "565"
+                }
+            ]
+        },
+        "status": "true"
+    } 
 }

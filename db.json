@@ -59,8 +59,8 @@
            }
        },
        "status": true
-   }
-   "typifications":{
+   },
+   "typifications?rejected":{
        "message": "string",
        "result": [
            {

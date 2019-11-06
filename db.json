@@ -60,4 +60,15 @@
        },
        "status": true
    }
+   "typifications?rejected":{
+       "message": "string",
+       "result": [
+           {
+               "category": "string",
+               "description": "string",
+               "id": 65
+           }
+       ],
+       "status": true
+   }
 }

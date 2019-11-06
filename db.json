@@ -55,7 +55,7 @@
                "delivery_date": "string",
                "delivery_window": "string",
                "provider": "string",
-               "provider_order_id": "integer"
+               "provider_order_id": 234
            }
        },
        "status": true

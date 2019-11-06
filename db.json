@@ -34,5 +34,30 @@
             ]
         },
         "status": "true"
-    } 
+    },
+   "start-shift":{
+       "message": "string",
+       "result": {
+           "products": [
+               {
+                   "image_url": "string",
+                   "pack_description": "string",
+                   "plu": "string",
+                   "product_name": "string",
+                   "quantity_received": 45,
+                   "references": "12345678",
+                   "store_product_id": 52,
+                   "type": "string",
+                   "unit": "string"
+               }
+           ],
+           "provider_order": {
+               "delivery_date": "string",
+               "delivery_window": "string",
+               "provider": "string",
+               "provider_order_id": "integer"
+           }
+       },
+       "status": true
+   }
 }
